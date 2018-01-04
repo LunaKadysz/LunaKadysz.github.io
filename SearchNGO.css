@@ -1,0 +1,13 @@
+#SearchNGO {
+ padding: 12px;
+ font-size: 12pt;
+ font-family:'Source Sans Pro', sans-serif;
+  border-radius: 6px;
+  width: 30%;
+  color: #808080;
+  background: #ffffff;
+}
+#inner {
+	overflow: hidden;
+	font-size: 12px;
+}
